@@ -3,6 +3,9 @@
 <!--
 **HashimKage/HashimKage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+
 <h1 align="left">Hello Mate i'm Hashim👋</h1>
 
 ###
@@ -62,5 +65,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HashimKage.HashimKage&"  />
 </div>
 
-###: ...
--->
+###
