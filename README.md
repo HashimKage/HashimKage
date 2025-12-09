@@ -5,7 +5,7 @@
 
 <h1 align="left">Hello Mate i'm Hashim👋</h1>
 
-###
+##
 
 <h3 align="left">Tinkering with ROMs, kernels, and Linux where curiosity meets precision</h3>
 
