@@ -12,7 +12,7 @@
 
 <h3 align="left">Tinkering with ROMs, kernels, and Linux where curiosity meets precision</h3>
 
-###
+##
 
 <h2 align="left">About Me</h2>
 
