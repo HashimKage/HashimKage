@@ -7,7 +7,7 @@
 
 ##
 
-<h3 align="left">Tinkering with ROMs, kernels, and Linux where curiosity meets precision</h3>
+<h3 align="left">❤️Tinkering with ROMs, kernels, and Linux where curiosity meets precision</h3>
 
 ##
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h5 align="left">Custom ROM Tester-Linux Explorer                Science student // Balancing studies with Bootloops and builds.    Enthusiastic learner diving into ROMs ,kernels ,and Android internals ,one flash at a time.    Exploring the Linux world, from basic commands to deeper system customization .Curious about how tings work under the hood- device trees, hardware quirks , kernels, and more. Always experimenting, always improving  always having fun with tech. Aston daily driver for ROM using , testing and kernel expirments.</h5>
+<h5 align="left">🦋Custom ROM Tester-Linux Explorer                Science student // Balancing studies with Bootloops and builds.    Enthusiastic learner diving into ROMs ,kernels ,and Android internals ,one flash at a time.🥱    Exploring the Linux world, from basic commands to deeper system customization .Curious about how tings work under the hood- device trees, hardware quirks , kernels, and more. Always experimenting, always improving  always having fun with tech. Aston daily driver for ROM using , testing and kernel expirments.</h5>
 
 ###
 
